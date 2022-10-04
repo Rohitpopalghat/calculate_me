@@ -1,10 +1,6 @@
 .text-center{
   text-align: center;
 }
-.style{
-  background-image: url("mobile-phone-unsplash.jpg");
-}
- 
 .mx-auto{
   margin: auto;
 }
