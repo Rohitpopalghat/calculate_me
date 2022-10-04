@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Baloo+Bhai+2&family=Bree+Serif&family=Tiro+Devanagari+Sanskrit:ital@1&display=swap');
+html, body {
+  height: 100%;
+  width: 100%;
+  font-family: 'Baloo Bhai 2';
+  font-family: 'Bree Serif', serif;
+  font-family: 'Tiro Devanagari Sanskrit', serif;
+  font-color: black;
+  
+}
+.button{
+  margin:0px 10px;
+  cursor: pointer;
+  color:black;
+  background-color:grey;
+
+  border: black;
+  padding:5px;
+  width:66px;
+  font-size:20px;
+  
+}
+.row{
+  margin: 10px 0;
+  
+}
+.row input{
+  width:330px;
+  height:50px;
+  margin:10px 20px;
+  font-size:30px;
+  
+}
